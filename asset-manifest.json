@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/jssicakisner/Restock-Shopping-Cart/static/css/main.073c9b0a.css",
+    "main.js": "/jssicakisner/Restock-Shopping-Cart/static/js/main.32d5be93.js",
+    "static/js/787.c337d5b1.chunk.js": "/jssicakisner/Restock-Shopping-Cart/static/js/787.c337d5b1.chunk.js",
+    "static/media/logo.svg": "/jssicakisner/Restock-Shopping-Cart/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/jssicakisner/Restock-Shopping-Cart/index.html",
+    "main.073c9b0a.css.map": "/jssicakisner/Restock-Shopping-Cart/static/css/main.073c9b0a.css.map",
+    "main.32d5be93.js.map": "/jssicakisner/Restock-Shopping-Cart/static/js/main.32d5be93.js.map",
+    "787.c337d5b1.chunk.js.map": "/jssicakisner/Restock-Shopping-Cart/static/js/787.c337d5b1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.32d5be93.js"
+  ]
+}
